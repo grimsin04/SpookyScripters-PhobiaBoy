@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScreenUI.unity
+    guid: 2e5e3f8b41f064e698f2308b678daf20
+  - enabled: 1
+    path: Assets/Scenes/MDC Hackathon.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/2ndLevelScene.unity
+    guid: f8af87d3a72b2480ea26502f00c557c2
+  - enabled: 1
+    path: Assets/Scenes/EndScreenUI.unity
+    guid: 5da309ff2263142a78e4508743636f9c
+  - enabled: 1
+    path: Assets/Scenes/WinScreen.unity
+    guid: 3c19268f1db41504e93ef6c99a5c4d27
+  m_configObjects: {}
